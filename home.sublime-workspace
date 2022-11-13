@@ -1,0 +1,473 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"All",
+				"AddAllItemsToTable"
+			],
+			[
+				"Add",
+				"AddItemToTable"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"category",
+				"category"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"s",
+				"site"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"fire",
+				"firebaseRef"
+			],
+			[
+				"a",
+				"announcements"
+			],
+			[
+				"posit",
+				"background-position\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"color",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"Text",
+				"text-decoration\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"de",
+				"deductions"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"total",
+				"total_income"
+			],
+			[
+				"sss",
+				"sss_contri"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"alig",
+				"alignment-baseline\tproperty"
+			],
+			[
+				"widt",
+				"max-width\tproperty"
+			],
+			[
+				"top",
+				"border-top-width\tproperty"
+			],
+			[
+				"colo",
+				"outline-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"spacing",
+				"border-spacing\tproperty"
+			],
+			[
+				"col",
+				"outline-color\tproperty"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"paddin",
+				"padding-right\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"mp",
+				"mp3"
+			],
+			[
+				"siz",
+				"font-size\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"td",
+				"td\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "home.php",
+			"settings":
+			{
+				"buffer_size": 53986,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/lms/Laundry/interface/iLaundry.php",
+		"/C/xampp/htdocs/lms/Laundry/database/laundry.sql",
+		"/C/xampp/htdocs/lms/Laundry/database/Database.php",
+		"/C/xampp/htdocs/lms/Laundry/interface/iSupply.php",
+		"/C/xampp/htdocs/lms/Laundry/data/all_supply.php",
+		"/C/xampp/htdocs/lms/Laundry/data/all_laundry.php",
+		"/C/xampp/htdocs/lms/Laundry/supplylist.php",
+		"/C/Users/USER/AppData/Local/Temp/Rar$DIa12216.5445/EXTENSIONS",
+		"/C/xampp/htdocs/lms/home.php",
+		"/C/xampp/htdocs/captcha/style.css",
+		"/C/xampp/htdocs/captcha/index.php",
+		"/C/xampp/htdocs/captcha/random.php",
+		"/C/xampp/htdocs/captcha/3-process.php",
+		"/C/xampp/htdocs/captcha/EXTRA-AJAX.php",
+		"/C/xampp/htdocs/captcha/2-form.css",
+		"/C/xampp/htdocs/php-concap/3-process.php",
+		"/C/xampp/htdocs/php-concap/2-form.php",
+		"/C/xampp/htdocs/php-concap/EXTRA-AJAX.php",
+		"/C/xampp/htdocs/captcha/process.php",
+		"/D/captcha/index.php",
+		"/C/Users/USER/OneDrive/Desktop/website/capitol.html",
+		"/C/Users/USER/OneDrive/Desktop/website/login.html",
+		"/C/Users/USER/OneDrive/Desktop/website/adminCapitol.html",
+		"/C/Users/USER/OneDrive/Desktop/website/style.css",
+		"/C/Users/USER/OneDrive/Desktop/website/website.html",
+		"/C/Users/USER/OneDrive/Desktop/login.php",
+		"/D/website/data.html",
+		"/D/website/script.js",
+		"/D/website/adminfirst.html",
+		"/D/Download/RegistrationForm.java",
+		"/D/love.html",
+		"/C/xampp/htdocs/PayrollCalculator/index.php",
+		"/D/New folder/style.css",
+		"/C/xampp/htdocs/grade/index.php",
+		"/D/Download/index.php",
+		"/D/306/Activity-20211016T092613Z-001/Activity/Activity/b/templates/message.html",
+		"/D/new/Form4.html",
+		"/D/306/Activity-20211016T092613Z-001/Activity/Activity/b/static/css/style.css",
+		"/D/306/Activity-20211016T092613Z-001/Activity/Activity/login.html",
+		"/D/Activity/ITE306-20/b/templates/message.html",
+		"/D/306/Activity-20211016T092613Z-001/Activity/Activity/b/templates/static/style.css",
+		"/D/Activity/ITE306-20/b/static/css/style.css",
+		"/D/306/Activity-20211016T092613Z-001/Activity/Activity/a/templates/print-table.html",
+		"/D/Activity/ITE306-20/a/templates/print-table.html",
+		"/D/new/style4.css",
+		"/D/new/style1.css",
+		"/D/new/style2.css",
+		"/D/new/style.css",
+		"/D/new/multimedias.html",
+		"/D/new/gallery.html",
+		"/D/new/index.html",
+		"/D/day 14 and 15/form1.html",
+		"/D/day 14 and 15/style4.css",
+		"/D/day 14 and 15/style.css",
+		"/D/day 14 and 15/index.html",
+		"/D/day 14 and 15/multimedia.html",
+		"/D/resume/index.html",
+		"/C/Users/USER/OneDrive/Desktop/new/multimedias.html",
+		"/C/Users/USER/OneDrive/Desktop/new/style2.css",
+		"/C/Users/USER/OneDrive/Desktop/new/gallery.html",
+		"/C/Users/USER/OneDrive/Desktop/new/style1.css",
+		"/C/Users/USER/OneDrive/Desktop/new/index.html",
+		"/C/Users/USER/OneDrive/Desktop/new/style.css",
+		"/D/resume/kemi.html",
+		"/D/resume/resume.html",
+		"/D/resume/style.css",
+		"/C/Users/USER/OneDrive/Desktop/Day15.java",
+		"/C/xampp/htdocs/JS/index.html",
+		"/C/Users/USER/OneDrive/Desktop/Activity.java"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53279,
+								53279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 43133.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "home.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
